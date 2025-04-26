@@ -1,0 +1,27 @@
+# Binaries
+/bin/
+/your-cli-name  # Replace with your executable name
+
+# Go workspace files
+/go.work
+/go.work.sum
+
+# Dependency directories
+/vendor/
+
+# Test output
+/coverage.txt
+/coverage.out
+
+# IDE/Editor
+/.vscode/
+/.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
