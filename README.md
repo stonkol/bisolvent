@@ -1,6 +1,7 @@
 # Bisolvent
 
 Binary problem solver, for complex and simple routine decisions.
+Useful when you type idk in your head or in the messaging app.
 
 *The dissolvent that output a binary solution to your problems*
 
